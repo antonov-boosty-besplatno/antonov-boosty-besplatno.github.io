@@ -1,0 +1,21 @@
+{
+  "name": "Антонов Бусти Бесплатно",
+  "short_name": "Бусти",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Смотрите ролики Антонова Бусти бесплатно без регистрации. Обучение, мотивация и эксклюзивный контент.",
+  "theme_color": "#d4a5c4",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
